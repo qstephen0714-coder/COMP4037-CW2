@@ -1,6 +1,5 @@
 # COMP4037 CW2
 # Name：Yiheng QIU
-# Student ID：20738965
 
 This repository contains the Python code and output files used for COMP4037 Coursework 2: Data Visualization.
 
